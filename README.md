@@ -1,2 +1,2 @@
-# swap-mobile
-A swipe-based mobile application for local item exchange. Built with React Native.
+SWAP Mobile App
+This repository contains the frontend mobile application for SWAP, a platform designed to connect people interested in trading items locally. Built with React Native, the app features a swipe interface (like or pass) for discovering items, geolocation-based filtering to find nearby users, and a private chat system to negotiate trades. It serves as the user-facing interface for the SWAP ecosystem.
